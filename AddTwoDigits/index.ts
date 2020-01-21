@@ -4,4 +4,4 @@ function addTwoDigits(nums: any): number {
     return parseInt(nums[0]) + parseInt(nums[1])
 }
 
-console.log(addTwoDigits(11))
+console.log(addTwoDigits(29))
